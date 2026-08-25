@@ -1,4 +1,4 @@
-package ultraemojicombat;
+package projeto06;
 
 public class Lutador {
     private String nome;

@@ -1,18 +1,12 @@
-package projetolivro;
+package projeto08;
 
 public class Pessoa {
     private String nome;
     private int idade;
     private String sexo;
-
-    public Pessoa(String nome, int idade, String sexo) {
-        this.nome = nome;
-        this.idade = idade;
-        this.sexo = sexo;
-    }
     
     public void fazerAniver(){
-        this.setIdade(this.getIdade() + 1);
+        this.idade++;
     }
 
     public String getNome() {
@@ -38,6 +32,10 @@ public class Pessoa {
     public void setSexo(String sexo) {
         this.sexo = sexo;
     }
-    
+
+    @Override
+    public String toString() {
+        return "Pessoa\nnome = " + nome + ", idade = " + idade + ", sexo = " + sexo + "\n";
+    }
     
 }

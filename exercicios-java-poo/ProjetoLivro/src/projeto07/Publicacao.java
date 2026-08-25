@@ -1,4 +1,4 @@
-package projetolivro;
+package projeto07;
 
 public interface Publicacao {
     public abstract void abrir();

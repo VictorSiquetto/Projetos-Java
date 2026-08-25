@@ -1,6 +1,6 @@
-package projetopessoas;
+package projeto08;
 
-public class ProjetoPessoas {
+public class Projeto08 {
 
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa();

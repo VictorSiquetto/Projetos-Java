@@ -1,4 +1,4 @@
-package projetopessoas;
+package projeto08;
 
 public class Funcionario extends Pessoa{
     private String setor;

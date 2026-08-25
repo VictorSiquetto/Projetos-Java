@@ -1,6 +1,6 @@
-package projetolivro;
+package projeto07;
 
-public class ProjetoLivro {
+public class Projeto07 {
 
     public static void main(String[] args) {
         Pessoa p[] = new Pessoa[2];

@@ -1,6 +1,6 @@
-package ultraemojicombat;
+package projeto06;
 
-public class UltraEmojiCombat {
+public class Projeto06 {
 
     public static void main(String[] args) {
         Lutador l[] = new Lutador[6];

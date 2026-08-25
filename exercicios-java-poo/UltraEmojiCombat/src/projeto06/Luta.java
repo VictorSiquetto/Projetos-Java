@@ -1,4 +1,4 @@
-package ultraemojicombat;
+package projeto06;
 
 import java.util.Random;
 

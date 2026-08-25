@@ -1,4 +1,4 @@
-package projetopessoas;
+package projeto08;
 
 public class Professor extends Pessoa{
     private String espec;
